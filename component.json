@@ -1,0 +1,8 @@
+{
+  "name": "stackNav",
+  "version": "0.0.1",
+  "main": ["stackNav.jquery.js"],
+  "dependencies": {
+    "jquery": ">=1.8"
+  },
+} 
