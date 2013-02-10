@@ -1,7 +1,7 @@
 {
-  "name": "stackNav",
+  "name": "stacknav",
   "version": "0.0.1",
-  "main": ["stackNav.jquery.js"],
+  "main": ["stacknav.jquery.js"],
   "dependencies": {
     "jquery": ">=1.8"
   },

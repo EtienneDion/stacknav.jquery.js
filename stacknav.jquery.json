@@ -1,0 +1,33 @@
+{
+    "name": "stacknav",
+    "title": "Jquery stackNav",
+    "description": "Stack Naviguation on top when scrolling down",
+    "keywords": [
+        "stackNav"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Etienne Dion",
+        "url": "http://www.etiennedion.com"
+    },
+    "maintainers": [
+        {
+            "name": "Etienne Dion",
+            "email": "dionetienne@gmail.com",
+            "url": "http://www.etiennedion.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/EtienneDion/stacknav.jquery.js/blob/master/LICENSE-MIT.txt"
+        }
+    ],
+    "bugs": "https://github.com/EtienneDion/stacknav.jquery.js/issues",
+    "homepage": "https://github.com/EtienneDion/stacknav.jquery.js",
+    "docs": "https://github.com/EtienneDion/stacknav.jquery.js",
+    "download": "https://github.com/EtienneDion/stacknav.jquery.js",
+    "dependencies": {
+        "jquery": ">=1.8"
+    }
+}
